@@ -388,7 +388,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ### v1.0.0 (Current)
 - ✨ Initial release
-- 🎨 Four notification types (success, error, warning, info)
+- 🎨 Five notification types (success, error, warning, info, reminder)
 - 📱 Responsive design
 - ⏳ Auto-dismiss functionality
 - 🎪 Smooth animations
