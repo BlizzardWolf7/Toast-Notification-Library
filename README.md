@@ -30,9 +30,10 @@ Download `toast.js` and `toast.css` from this repository and include them in you
 <script src="toast.js"></script>
 ```
 
-### Option 2: CDN (coming soon)
+### Option 2: CDN
 ```html
-<!-- Will be available via CDN in future releases -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/BlizzardWolf7/Toast-Notification-Library@main/toast.css">
+  <script src="https://cdn.jsdelivr.net/gh/BlizzardWolf7/Toast-Notification-Library@main/toast.js"></script>
 ```
 
 ---
