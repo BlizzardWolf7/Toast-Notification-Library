@@ -276,7 +276,7 @@ Creates and displays a new toast notification.
 **Returns:**
 - Toast element (for advanced manipulation if needed)
 
-### Complete API Example
+### Complete Example
 ```javascript
 showToast({
   text: "Your message here",           // Required
