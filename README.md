@@ -3,8 +3,7 @@
 A lightweight, customizable JavaScript library for creating beautiful toast notifications in any web project.  
 Perfect for alerts, confirmations, and status messages — without adding heavy dependencies.
 
-🔗 **Demo** [simonringwelski.dk/ressourcer/toast-notification-library]([https://simonringwelski.dk/ressourcer/toast-notification-library/](https://sandbox.simonringwelski.dk/Toast_Notification_Library/index.html))
-
+[View the Live Demo](https://sandbox.simonringwelski.dk/Toast_Notification_Library/index.html)
 ---
 
 ## ✨ Features
